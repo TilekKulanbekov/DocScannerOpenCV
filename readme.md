@@ -10,4 +10,8 @@ You need to only change the name of an image.
 If you want scan your images, then you need to put path to your image. 
 That is all requirements 
 
-https://private-user-images.githubusercontent.com/73649961/288771569-36ad68e4-4fe2-4ebf-b5d3-62cd451865f8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NTU4MDEsIm5iZiI6MTcwMTk1NTUwMSwicGF0aCI6Ii83MzY0OTk2MS8yODg3NzE1NjktMzZhZDY4ZTQtNGZlMi00ZWJmLWI1ZDMtNjJjZDQ1MTg2NWY4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDEzMjUwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzOTVmZDlkZWFmZjYzNmM0ZjU4N2E1ZWQyM2RkMGRhMTFiOTEzNDAwZWY3MTQ1NmQyOGMyM2ZhYTRiMzA1NDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1izlxHjOjmkNLgKEtnCKrYn6YOg2f0-tCg08PD851aI
+![image](https://github.com/TilekKulanbekov/DocScannerOpenCV/assets/73649961/ad7873da-52a4-431c-9844-e16b7942a8a3)
+
+![image](https://github.com/TilekKulanbekov/DocScannerOpenCV/assets/73649961/fa38ed13-2dce-497b-bd69-f22d1c0cb659)
+
+![image](https://github.com/TilekKulanbekov/DocScannerOpenCV/assets/73649961/4ba8baba-4f4c-486e-b3f0-f8d1fc002265)
